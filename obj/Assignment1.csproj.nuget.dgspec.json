@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabed\\_ConestogaFinalSem\\DistributedApp\\Assignment1\\Assignment1\\Assignment1.csproj": {}
+    "C:\\Users\\gabed\\_ConestogaFinalSem\\DistributedApp\\Assignment1\\Assignment1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabed\\_ConestogaFinalSem\\DistributedApp\\Assignment1\\Assignment1\\Assignment1.csproj": {
+    "C:\\Users\\gabed\\_ConestogaFinalSem\\DistributedApp\\Assignment1\\Assignment1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabed\\_ConestogaFinalSem\\DistributedApp\\Assignment1\\Assignment1\\Assignment1.csproj",
+        "projectUniqueName": "C:\\Users\\gabed\\_ConestogaFinalSem\\DistributedApp\\Assignment1\\Assignment1.csproj",
         "projectName": "Assignment1",
-        "projectPath": "C:\\Users\\gabed\\_ConestogaFinalSem\\DistributedApp\\Assignment1\\Assignment1\\Assignment1.csproj",
+        "projectPath": "C:\\Users\\gabed\\_ConestogaFinalSem\\DistributedApp\\Assignment1\\Assignment1.csproj",
         "packagesPath": "C:\\Users\\gabed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabed\\_ConestogaFinalSem\\DistributedApp\\Assignment1\\Assignment1\\obj\\",
+        "outputPath": "C:\\Users\\gabed\\_ConestogaFinalSem\\DistributedApp\\Assignment1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
