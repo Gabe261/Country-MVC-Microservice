@@ -20,7 +20,7 @@ public class CountriesController : ControllerBase
         return await _context.Countries.ToListAsync();
     }
     
-    [HttpGet]
+    [HttpGet("{id}")]
     public async Task<ActionResult<Country>> GetCountry(int id)
     {
         var country = await _context.Countries.FindAsync(id);
@@ -42,7 +42,7 @@ public class CountriesController : ControllerBase
         return country;
     }
 
-    [HttpDelete("id")]
+    [HttpDelete("{id}")]
     public async Task<IActionResult> DeleteCountry(int Id)
     {
         var country = await _context.Countries.FindAsync(Id);
@@ -57,7 +57,7 @@ public class CountriesController : ControllerBase
         return Ok();
     }
 
-    [HttpPut]
+    [HttpPut("{id}")]
     public async Task<IActionResult> PutCountry(int id, Country country)
     {
         if(id != country.Id)
